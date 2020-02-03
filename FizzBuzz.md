@@ -1,7 +1,5 @@
 # Kata FizzBuzz
 
-- Link del ejercicio: [Solveet - Kata FizzBuzz](http://www.solveet.com/exercises/Kata-FizzBuzz/11)
-
 ## Enunciado
 
 Escribe un programa que imprima los números del 1 al 100, pero aplicando las siguientes normas:
