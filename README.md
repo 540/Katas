@@ -3,6 +3,7 @@ Collection of katas to solve
 
 - [FizzBuzz](./FizzBuzz.md): Refactoring, naming y duplicidad, less surprise principle.
 - [String Calculator](./StringCalculator.md): Simple design, Solid.
+- [Tennis](./Tennis.md): Simple design, tdd, Solid, open-close.
 
 # Testing Boilerplates
 Boilerplate source code projects for different languages
