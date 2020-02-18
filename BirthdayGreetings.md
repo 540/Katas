@@ -25,9 +25,11 @@ Escribe un programa que:
 Carga un listado de emplaedos desde un fichero plano.
 Envía felicitaciones a todos los empleados que cumplen años hoy.
 El fichero plano es una secuencia de registros, separados por saltos de línea, estos son los primeros:
-last_name, first_name, date_of_birth, email
-Doe, John, 1982/10/08, john.doe@foobar.com
-Ann, Mary, 1975/09/11, mary.ann@foobar.com
+
+| last_name | first_name | date_of_birth | email               |
+| --------- | ---------- | ------------- | ------------------- |
+| Doe       | John       | 1982/10/08    | john.doe@foobar.com |
+| Ann       | Mary       | 1975/09/11    | mary.ann@foobar.com |
 
 El email de felicitación contiene el siguiente texto:
 
