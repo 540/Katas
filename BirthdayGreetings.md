@@ -12,10 +12,10 @@ No es un ejercicio básico. Se suponen ciertos conocimientos sobre TDD, testing 
 
 Se puede resolver de dos formas:
 
-- Refactoring: Partiendo del código base.
+- **Refactoring:** Partiendo del código base.
   - [Código base en java](https://github.com/540/java-birthday-greetings-kata)
   
-- Practicando TDD: Arrancar desde 0 y resolverla.
+- **TDD:** Arrancar desde 0 y resolverla.
 
 ### Enunciado
 
