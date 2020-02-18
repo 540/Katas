@@ -14,6 +14,7 @@ Se puede resolver de dos formas:
 
 - **Refactoring:** Partiendo del código base.
   - [Código base en java](https://github.com/540/java-birthday-greetings-kata)
+  - [Código base en PHP](https://github.com/theUniC/birthday-greetings-kata-php)
   
 - **TDD:** Arrancar desde 0 y resolverla.
 
