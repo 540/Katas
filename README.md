@@ -5,6 +5,7 @@ Collection of katas to solve
 - [String Calculator](./StringCalculator.md): Simple design, Solid.
 - [Tennis](./Tennis.md): Simple design, tdd, Solid, open-close.
 - [Birthday Greetings](./BirthdayGreetings.md): Hexagonal architecture, ports and adapters, refactoring, testing.
+- [Single Sign On](./SingleSignOn.md): Test doubles practice: Dummies, stubs, fakes, spies, mocks.
 
 # Testing Boilerplates
 Boilerplate source code projects for different languages
