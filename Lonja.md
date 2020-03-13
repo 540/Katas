@@ -22,3 +22,5 @@ Las distancias hasta los posibles destinos son:
 Y por último, hay que tener en cuenta que los compradores estiman que el <b>valor de compra de la carga se deprecia en un 1% por cada 100 Km recorridos</b>.
 
 Recordad, <b>el objetivo es responder a nuestro amigo emprendedor dónde debería vender esa carga de pescado y marisco para obtener el mayor beneficio</b>.
+
+Web: http://agilismo.es/codekatas/109-katalonja
