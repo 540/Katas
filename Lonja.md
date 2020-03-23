@@ -1,4 +1,9 @@
-En la lonja de un puerto pesquero gallego, un gallego emprendedor ha decidido comercializar pescado fresco gallego en otras ciudades de Europa, para ello va a comenzar con una pequeña furgoneta que es <b>capaz de transportar hasta 200 Kg de pescado</b>.
+# Lonja Kata
+
+## Enunciado
+
+En la lonja de un puerto pesquero gallego, un gallego emprendedor ha decidido comercializar pescado fresco gallego en otras 
+ciudades de Europa, para ello va a comenzar con una pequeña furgoneta que es <b>capaz de transportar hasta 200 Kg de pescado</b>.
 
 Para el primer viaje ha comprado <b>50 Kg de vieiras</b>, <b>100 Kg de pulpo</b> y otros <b>50 Kg de centollos</b>, pero se pregunta dónde debería vender esta carga para obtener el máximo beneficio.
 
