@@ -2,21 +2,22 @@
 
 ## Enunciado
 
-En esta kata, nos centraremos únicamente en el sistema de puntuaciones del tennis. El sistema de puntuaciones del tennis es del estilo "back and forth", que presenta un tipo distinto de puntuaciones de otras katas como podría ser la Kata Bownling.
+Esta kata trata de modelar un partido de tenis :).
 
-Para simplificar la kata, sólo se jugará un set del partido. Una vez terminado, habrá un ganador.
+La forma de llevar el tanteo en tenis puede ser complicado, por este motivo la ATP nos ha contratado para construir un marcador que sea capaz de mostrar el resultado actual de un partido.
 
-## Normas del tennis
+Nuestro trabajo consiste en escribir un programa "TennisGame" que contenga la lógica del sistema de tanteo y que muestre el resultado correcto en formato de texto para mostrarlo en las pantallas.
 
-### Básicas
-En el juego del tennis, un jugador comienza con puntación 0. Los puntos se ganan en la siguiente secuencia: 0 -> 15 -> 30 -> 4
+Cuando un jugador gane un punto, el programa contendrá un método al que se le podrá llamar para poder indicarle qué jugador ha sido el ganador del punto. Además, el sistema recibirá llamadas de las pantallas a un método "score()" que devolverá cuál es el resultado actual. Este método debería devolver un texto con el resultado.
 
-Si un jugador consigue 40 y puntua de nuevo, el jugador gana el juego, siempre que el otro jugador no tenga 40 puntos en ese momento. Si los dos jugadores tienen al mismo tiempo 40 puntos, a esto se llama "iguales" (deuce en inglés)
+Este es un resumen explicamos cómo funciona el tanteo en tenis, pero si necesitas más información puedes visitar el siguiente
+[enlace](https://en.wikipedia.org/wiki/Tennis#Scoring):
 
-### Iguales
-Puntuar durante iguales, da al jugador "ventaja". Si el otro jugador puntua en ese momento, la puntuación vuelve a iguales.
-
-Si un jugador tiene "ventaja" y puntua de nuevo, el jugador gana el juego.
+Un juego se gana cuando uno de los jugadores gana al menos 4 puntos en total y al menos dos puntos más que el oponente.
+El tanteo parcial se lleva de una manera un tanto (¡BOOM!) "especial": respectivamente "Love", "Fifteen", "Thirty", y "Forty".
+Si al menos cada uno de los jugadores ha ganado 3 puntos y el resultado está empatado, el resultado es "Deuce".
+Si al menos cada uno de los jugadores ha ganado 3 puntos y uno de lo jugadores tiene un punto más que su rival, el resultado del juego es "Advantage" para el jugador que va en cabeza.
+Sólo necesitas reportar el resultado del juego actual. Este es un primer desarrollo, por lo tanto, ahora los sets y juegos quedan fuera del contexto. ¡Más vale!
 
 ## Requerimientos
 Escribe un programa para manejar cada uno de los siguientes requerimientos de puntuación de dos jugadores del juego de tennis.
@@ -32,3 +33,4 @@ Debe ser posible obtener la puntuación de cualquier de los jugadores en cualqui
 ## Créditos
 
 [Kata original](http://www.solveet.com/exercises/Kata-Tennis/13)
+[Kata tennis refactoring] (https://github.com/emilybache/Tennis-Refactoring-Kata)
