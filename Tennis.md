@@ -13,10 +13,11 @@ Cuando un jugador gane un punto, el programa contendrá un método al que se le 
 Este es un resumen explicamos cómo funciona el tanteo en tenis, pero si necesitas más información puedes visitar el siguiente
 [enlace](https://en.wikipedia.org/wiki/Tennis#Scoring):
 
-Un juego se gana cuando uno de los jugadores gana al menos 4 puntos en total y al menos dos puntos más que el oponente.
-El tanteo parcial se lleva de una manera un tanto (¡BOOM!) "especial": respectivamente "Love", "Fifteen", "Thirty", y "Forty".
-Si al menos cada uno de los jugadores ha ganado 3 puntos y el resultado está empatado, el resultado es "Deuce".
-Si al menos cada uno de los jugadores ha ganado 3 puntos y uno de lo jugadores tiene un punto más que su rival, el resultado del juego es "Advantage" para el jugador que va en cabeza.
+1. Un juego se gana cuando uno de los jugadores gana al menos 4 puntos en total y al menos dos puntos más que el oponente.
+2. El tanteo parcial se lleva de una manera un tanto (¡BOOM!) "especial": respectivamente "Love", "Fifteen", "Thirty", y "Forty".
+3. Si al menos cada uno de los jugadores ha ganado 3 puntos y el resultado está empatado, el resultado es "Deuce".
+4. Si al menos cada uno de los jugadores ha ganado 3 puntos y uno de lo jugadores tiene un punto más que su rival, el resultado del juego es "Advantage" para el jugador que va en cabeza.
+
 Sólo necesitas reportar el resultado del juego actual. Este es un primer desarrollo, por lo tanto, ahora los sets y juegos quedan fuera del contexto. ¡Más vale!
 
 ## Requerimientos
