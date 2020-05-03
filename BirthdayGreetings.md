@@ -22,7 +22,7 @@ Se puede resolver de dos formas:
 ### Enunciado
 
 Escribe un programa que:
-Carga un listado de emplaedos desde un fichero plano.
+Carga un listado de empleados desde un fichero plano.
 Envía felicitaciones a todos los empleados que cumplen años hoy.
 El fichero plano es una secuencia de registros, separados por saltos de línea, estos son los primeros:
 
