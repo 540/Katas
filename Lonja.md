@@ -9,10 +9,10 @@ Para el primer viaje ha comprado <b>50 Kg de vieiras</b>, <b>100 Kg de pulpo</b>
 
 Para ello conoce los precios de venta en los diferentes mercados locales:
 
- €/Kg        | MADRID | BARCELONA | LISBOA
- Vieiras     |  500   |    450    |  600
- Pulpo       |    0   |    120    |  100
- Centollos   |  450   |      0    |  500
+| €/Kg        | MADRID | BARCELONA | LISBOA |
+| Vieiras     |  500   |    450    |  600 |
+| Pulpo       |    0   |    120    |  100 |
+| Centollos   |  450   |      0    |  500 |
 
 Pero además hay que tener en cuenta que tan sólo <b>cargar la furgoneta le cuesta 5 € más 2 € por cada Km recorrido</b>.
 
