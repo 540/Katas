@@ -13,7 +13,7 @@ No es un ejercicio básico. Se suponen ciertos conocimientos sobre TDD, testing 
 Se puede resolver de dos formas:
 
 - **Refactoring:** Partiendo del código base.
-  - [Código base en java](https://github.com/540/java-birthday-greetings-kata)
+  - [Código base en Java](https://github.com/540/java-birthday-greetings-kata)
   - [Código base en PHP](https://github.com/540/php-birthday-greetings-kata)  
   - [Código base en Typescript](https://github.com/540/ts-birthday-greetings-kata)
   
