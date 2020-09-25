@@ -41,4 +41,4 @@ Buzz
 
 ## Créditos
 
-[Kata original](http://www.solveet.com/exercises/Kata-FizzBuzz/11)
+[Kata original](https://codingdojo.org/kata/FizzBuzz/)
