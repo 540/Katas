@@ -22,8 +22,8 @@
     * La primera línea es opcional. Todos los escenarios existentes hasta ahora, deben estar soportados.
 5. Llamar al método "Add" con números negativos deberá lanzar una excepción con el texto "negativos no soportados" y el número negativo que ha sido pasado. Si hay múltiples números negativos, muestra todos ellos en el mensaje de la excepción.
 6. Los numeros mayores de 1000 deben ser ignorados. Por ejemplo "2,1001" dará como resultado 2.
-7. Los delimitadores pueden ser de cualquier longitud con el siguiente formato: "//[delimiter]\n". Por ejemplo: "//[***]\n1***2***3" debe dar como resultado 6.
-8. Permite múltiples delimitadores de la siguiente manera: "//[delim1][delim2]\n". Por ejemplo: "//[*][%]\n1*2%3" debe dar como resultado 6.
+7. Los delimitadores pueden ser de cualquier longitud con el siguiente formato: "//[delimiter]\n". Por ejemplo: "`//[***]\n1***2***3`" debe dar como resultado 6.
+8. Permite múltiples delimitadores de la siguiente manera: "//[delim1][delim2]\n". Por ejemplo: "`//[*][%]\n1*2%3`" debe dar como resultado 6.
 9. Asegúrate de que puedes manejar delimitadores de cualquier longitud mayor de un caracter.
 
 ## Créditos
