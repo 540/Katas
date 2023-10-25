@@ -8,8 +8,8 @@ Collection of katas to solve
 - [Single Sign On](./SingleSignOn.md): Test doubles practice: Dummies, stubs, fakes, spies, mocks.
 - [Lonja](./Lonja.md): Simple design, Solid, Naming.
 - Gilded rose: Refactoring and testing
-  - [Typescript](https://github.com/540/gilded-rose-kata-ts)
-  - [Java](https://github.com/540/gilded-rose)
+  - [Typescript](https://github.com/540/gilded-rose-ts)
+  - [Java](https://github.com/540/gilded-rose-java)
 # Testing Boilerplates
 Boilerplate source code projects for different languages
 
@@ -17,3 +17,4 @@ Boilerplate source code projects for different languages
 - [PHP](https://github.com/540/php-testing-boilerplate)
 - [JavaScript](https://github.com/540/js-testing-boilerplate)
 - [TypeScript](https://github.com/540/ts-testing-boilerplate)
+- [Python](https://github.com/540/python-testing-boilerplate)
