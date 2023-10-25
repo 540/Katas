@@ -42,6 +42,14 @@ Buzz
 - Un número es Fizz si es divisible por 3 o si incluye un 3 en el número
 - Un número es Buzz si es divisible por 5 o si incluye un 5 en el número
 
+## Códigos base
+
+- [Java](https://github.com/540/fizzbuzz-java)
+- [PHP](https://github.com/540/FizzBuzz-php)
+- [JavaScript](https://github.com/540/fizzbuzz-js)
+- [TypeScript](https://github.com/540/fizzbuzz-ts)
+- [Python](https://github.com/540/fizzbuzz-python)
+- [Java solved](https://github.com/540/fizzbuzz-java-solved)
 
 ## Créditos
 
