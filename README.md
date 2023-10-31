@@ -10,6 +10,8 @@ Collection of katas to solve
 - Gilded rose: Refactoring and testing
   - [Typescript](https://github.com/540/gilded-rose-ts)
   - [Java](https://github.com/540/gilded-rose-java)
+  - [Python](https://github.com/540/gilded-rose-python)
+ 
 # Testing Boilerplates
 Boilerplate source code projects for different languages
 
