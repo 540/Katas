@@ -3,6 +3,10 @@ Collection of katas to solve
 
 - [FizzBuzz](./FizzBuzz.md): Refactoring, naming y duplicidad, less surprise principle.
 - [String Calculator](./StringCalculator.md): Simple design, Solid.
+  - [Javascript](https://github.com/540/string-calculator-js)
+  - [PHP](https://github.com/540/string-calculator-php)
+  - [Java](https://github.com/540/string-calculator-java)
+  - [Python](https://github.com/540/string-calculator-python)
 - [Tennis](./Tennis.md): Simple design, tdd, Solid, open-close.
 - [Birthday Greetings](./BirthdayGreetings.md): Hexagonal architecture, ports and adapters, refactoring, testing.
 - [Single Sign On](./SingleSignOn.md): Test doubles practice: Dummies, stubs, fakes, spies, mocks.
