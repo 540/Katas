@@ -2,6 +2,11 @@
 Collection of katas to solve
 
 - [FizzBuzz](./FizzBuzz.md): Refactoring, naming y duplicidad, less surprise principle.
+  - [Java](https://github.com/540/fizzbuzz-java)
+  - [PHP](https://github.com/540/FizzBuzz-php)
+  - [JavaScript](https://github.com/540/fizzbuzz-js)
+  - [TypeScript](https://github.com/540/fizzbuzz-ts)
+  - [Python](https://github.com/540/fizzbuzz-python)
 - [String Calculator](./StringCalculator.md): Simple design, Solid.
   - [Javascript](https://github.com/540/string-calculator-js)
   - [PHP](https://github.com/540/string-calculator-php)
