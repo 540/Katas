@@ -20,6 +20,8 @@ Collection of katas to solve
   - [Typescript](https://github.com/540/gilded-rose-ts)
   - [Java](https://github.com/540/gilded-rose-java)
   - [Python](https://github.com/540/gilded-rose-python)
+- Sudoku: Tdd and divide rule:
+  - [Python](https://github.com/540/sudoku-python)
  
 # Testing Boilerplates
 Boilerplate source code projects for different languages
