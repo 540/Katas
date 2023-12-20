@@ -22,6 +22,8 @@ Collection of katas to solve
   - [Python](https://github.com/540/gilded-rose-python)
 - Sudoku: Tdd and divide rule:
   - [Python](https://github.com/540/sudoku-python)
+- Santa Allotment: Tdd, Algorithmics
+  - [Python](https://github.com/540/santa-allotment-python)
  
 # Testing Boilerplates
 Boilerplate source code projects for different languages
