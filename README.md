@@ -13,6 +13,10 @@ Collection of katas to solve
   - [Java](https://github.com/540/string-calculator-java)
   - [Python](https://github.com/540/string-calculator-python)
 - [Tennis](./Tennis.md): Simple design, tdd, Solid, open-close.
+  - [Javascript](https://github.com/540/tennis-refactoring-kata-js)
+  - [PHP](https://github.com/540/tennis-refactoring-kata-php)
+  - [Java](https://github.com/540/tennis-refactoring-kata-java)
+  - [Python](https://github.com/540/tennis-refactoring-python)
 - [Birthday Greetings](./BirthdayGreetings.md): Hexagonal architecture, ports and adapters, refactoring, testing.
 - [Single Sign On](./SingleSignOn.md): Test doubles practice: Dummies, stubs, fakes, spies, mocks.
 - [Lonja](./Lonja.md): Simple design, Solid, Naming.
