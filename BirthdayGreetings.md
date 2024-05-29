@@ -16,6 +16,7 @@ Se puede resolver de dos formas:
   - [Código base en Java](https://github.com/540/java-birthday-greetings-kata)
   - [Código base en PHP](https://github.com/540/php-birthday-greetings-kata)  
   - [Código base en Typescript](https://github.com/540/ts-birthday-greetings-kata)
+  - [Código base en Python](https://github.com/540/python-birthday-greetings-kata)
   
 - **TDD:** Arrancar desde 0 y resolverla.
 
