@@ -28,6 +28,7 @@ Collection of katas to solve
   - [Python](https://github.com/540/sudoku-python)
 - Santa Allotment: Tdd, Algorithmics
   - [Python](https://github.com/540/santa-allotment-python)
+- [Roman Numerals](./RomanNumerals.md): Algorithms, programming logic and patterns. Also excellent for improving TDD skills and writing clean, readable code.
  
 # Testing Boilerplates
 Boilerplate source code projects for different languages
