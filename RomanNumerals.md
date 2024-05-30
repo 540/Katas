@@ -4,6 +4,8 @@ The Romans were a clever bunch. They conquered most of Europe and ruled it for h
 
 The Romans wrote numbers using letters - I, V, X, L, C, D, M. (notice these letters have lots of straight lines and are hence easy to hack into stone tablets)
 
+### Part I
+
 The Kata says you should write a function to convert from normal numbers to Roman Numerals: eg
 
      1 --> I
@@ -13,12 +15,14 @@ etc.
 
 There is no need to be able to convert numbers larger than about 150.
 
-Part II of the Kata
+### Part II
 
-Write a function to convert in the other direction, ie numeral to digit
-Clues
+Write a function to convert in the other direction, ie numeral to digit.
 
-can you make the code really beautiful and highly readable?
+
+## Clues
+
+Can you make the code really beautiful and highly readable?
 * does it help to break out lots of small named functions from the main function, or is it better to keep it all in one function?
 if you don't know an algorithm to do this already, can you derive one using strict TDD?
 * does the order you take the tests in affect the final design of your algorithm?
@@ -30,4 +34,5 @@ can you define the test cases in a csv file and use FIT, or generate test cases 
 what is the best way to verify your tests are correct?
 Suggested Test Cases
 
-URL: http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals
+## Original Kata
+http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals
