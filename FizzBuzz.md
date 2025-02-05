@@ -42,6 +42,12 @@ Buzz
 - Un número es Fizz si es divisible por 3 o si incluye un 3 en el número
 - Un número es Buzz si es divisible por 5 o si incluye un 5 en el número
 
+Salida de ejemplo:
+```
+53: debería devolver FizzBuzz (puesto que contiene el 5 y el 3)
+35: debería devolver FizzBuzzBuzz (puesto que contiene el 3 y 5 y es divisible por 5)
+```
+
 ## Códigos base
 
 - [Java](https://github.com/540/fizzbuzz-java)
